@@ -1,0 +1,4 @@
+# Development and testing tools. Not needed on the production server.
+-r requirements.txt
+pytest==9.1.1
+pytest-django==4.14.0
